@@ -99,3 +99,6 @@ treasure hunting in ancient jungle ruins dungeon crawler
 
 1. 🏰 🕋️ 🏹 🗺️
 procedural generated isometric castle siege game
+
+1. 🐉 🥷 🥳 🛫
+drunk ninjas and dragons have party on airplane, tilt-table marble rolling game mechanics
