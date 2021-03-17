@@ -97,8 +97,8 @@ hacking survival puzzle game on space station while hiding from alien monster
 1. 💎 🏛️ 🐯 🌴 - 
 treasure hunting in ancient jungle ruins dungeon crawler
 
-1. 🏰 🕋️ 🏹 🗺️
+1. 🏰 🕋️ 🏹 🗺️ -
 procedural generated isometric castle siege game
 
-1. 🐉 🥷 🥳 🛫
+1. 🐉 🥷 🥳 🛫 -
 drunk ninjas and dragons have party on airplane, tilt-table marble rolling game mechanics
