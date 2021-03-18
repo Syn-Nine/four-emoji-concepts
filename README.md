@@ -109,3 +109,4 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 🐧 🧞‍♂️ 🧜🏾‍♂️ ⚓ - penguin from ice-town goes on adventure to find mermaid, only tool is grappling hook
 
+1. 🤾🏻‍ 🐻 👨‍✈ 🥇 - multiplayer button mash drunk balacing game while wearing giant mascot head, don't get arrested
