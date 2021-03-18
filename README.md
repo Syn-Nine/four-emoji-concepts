@@ -125,3 +125,5 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 🚨 🥺 👽 🏗️ - governor that micro-manages city operations while simultaneously building missile defenses and defending against aliens
 
+1. 👻 ⛸ 🎾 🎠 - rollerball, but on ice, against mutants, carnival themes
+
