@@ -102,3 +102,10 @@ procedural generated isometric castle siege game
 
 1. 🐉 🥷 🥳 🛫 -
 drunk ninjas and dragons have party on airplane, tilt-table marble rolling game mechanics
+
+1. 🚀 ⛏️ 🔦 👾 - asteroid mining, avoid alien sentry FOV detection
+
+1. 🏚️ :turtle: :cow: :fire: - farm animals play capture the turtle (flag) while throwing grenades
+
+1. 🐧 🧞‍♂️ 🧜🏾‍♂️ ⚓ - penguin from ice-town goes on adventure to find mermaid, only tool is grappling hook
+
