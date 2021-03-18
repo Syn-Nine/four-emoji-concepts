@@ -40,7 +40,7 @@ were-bear that throws fire shockwaves to kill demons sidescroller action
 1. :busts_in_silhouette: :computer: :princess: :knife: - 
 assassin fem-bot AI coding game
 
-1. 🕋 ⚛ 🕙 🚀 - 
+1. 🖥️ ⚛ 🕙 🚀 - 
 play logic games against super computer to prevent nuclear holocaust
 
 1. :fearful: :closed_book: :heavy_multiplication_x: :mountain_snow: - 
@@ -49,7 +49,7 @@ mountain climbing game - like inverse skiing game
 1. ⚛ 🐗 🚖 🥋 - 
 nuclear warthog street brawler
 
-1. 📉 ☘ 🕋 🕙 - 
+1. 📉 ☘ 🔻 🕙 - 
 triangle block geometry puzzle game to make shapes
 
 1. 🏎 🧟 🎮 🔫 - 
