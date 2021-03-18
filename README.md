@@ -118,3 +118,8 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 1. 🐙 🐬 🇦🇮 🕳 - shark gets sucked into extradimensional whirlpool and has to fight off AI robotic octopus empire
 
 1. 🏍️ ⛓️ 🏟️ 🕳️ - road-rash, but on oval dirt track, with madmax style body armour
+
+1. 🌁 ⚡ 🔱 👼 - giant flying winged dieties brawl against modern skyline, kaiju inspired by Pete Mohrbacher
+
+1. 🌲 🗡️ 🏞️ 🐻 - wilderness survival/hunting, set complicated traps
+
