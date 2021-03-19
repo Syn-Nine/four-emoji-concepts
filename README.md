@@ -162,3 +162,6 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 1. 🤮 🚴 😵 🎢 - dizzy, optical illusion themed excite bike, difficult
 
 1. 🎆 🤿 🕤 🦈 - defuse underwater mines, don't get eaten by sharks
+
+1. 💃 🚓 🗡 🕴️ - hot police babe with sub-machine gun and katana takes down organized crime syndicate, ninja gaiden, parkour and hacking themes
+
