@@ -189,3 +189,8 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. ☸ ☢ 🚢 🔥 - battleship game, but everyone can see all the pieces, and you teleport in between turns, predicting the impact location of shells fired in the previous round
 
+1. ⛩️ 🦊 🎪 ☠ - trapeze simulator, wear animal suits, fly over giant death machines like wood chippers
+
+1. 🔥 ⛲ 🏎️ 🚒 - firetruck simulator with drift physics and squirrely hose
+
+1. 🔦 🌕 🐾 🤸 - flashlight tag hide and seek
