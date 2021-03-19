@@ -165,3 +165,5 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 💃 🚓 🗡 🕴️ - hot police babe with sub-machine gun and katana takes down organized crime syndicate, ninja gaiden, parkour and hacking themes
 
+1. 🌕 👸 🌎 👹 - moon princess chases and hunts demon ogres on earth with earthling sidekick
+
