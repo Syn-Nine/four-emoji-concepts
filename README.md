@@ -151,4 +151,4 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 🐁 ☣ 🔌 🎲 - mouse stuck in nuclear themed pinball machine, platformer
 
-1. 🚀 🦜 🚓 😼 - space police cat takes down intergalactic parrot gang
+1. 🚀 🦜 🚓 😼 - space police cat takes down intergalactic parrot gang, sidescroller shooter, dungeon crawler
