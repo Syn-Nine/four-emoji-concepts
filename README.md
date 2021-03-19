@@ -144,3 +144,11 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 1. 🦔 🏃 🚀 🤖 - spline map run & gunner gunstar mecha slug game with anime themes
 
 1. 🦋 🏛️ 🗡 ☠ - gothic knightess with butterfly wings, top down shooter, powerup deck building
+
+1. 🚈 🪁 💽 🗻 - kite surfing being pulled behind high speed train in japanese mountain town, electronic music soundtrack
+
+1. 🚳 🛑 🗻 🚗 - illegal bicycle racing down mountain side, dodge cars
+
+1. 🐁 ☣ 🔌 🎲 - mouse stuck in nuclear themed pinball machine, platformer
+
+1. 🚀 🦜 🚓 😼 - space police cat takes down intergalactic parrot gang
