@@ -152,3 +152,13 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 1. 🐁 ☣ 🔌 🎲 - mouse stuck in nuclear themed pinball machine, platformer
 
 1. 🚀 🦜 🚓 😼 - space police cat takes down intergalactic parrot gang, sidescroller shooter, dungeon crawler
+
+1. 🦜 ☠ 🗡 🕴️ - murderous rampage parrot fights organized crime, Oldboy themes
+
+1. 🦨 🐆 🦊 🐅 - fox lion tiger skunk, speed pattern matching game, set to soothing landscapes
+
+1. ☀️ 🛩️ 🚢 💃 - prop airplane vs navy combat, topdown shooter, bombshell themes
+
+1. 🤮 🚴 😵 🎢 - dizzy, optical illusion themed excite bike, difficult
+
+
