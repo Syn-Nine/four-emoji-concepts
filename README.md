@@ -161,4 +161,4 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 🤮 🚴 😵 🎢 - dizzy, optical illusion themed excite bike, difficult
 
-
+1. 🎆 🤿 🕤 🦈 - defuse underwater mines, don't get eaten by sharks
