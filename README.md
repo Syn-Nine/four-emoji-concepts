@@ -167,3 +167,25 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 🌕 👸 🌎 👹 - moon princess chases and hunts demon ogres on earth with earthling sidekick, paperboy but with interdimensional jail cell capture-balls
 
+1. 🏛️ ⚡ ⛏️ 🗿 - ancient civ defies the gods, city builder, attack on titan inspired
+
+1. 🏛️ 🐗 🕯️ ⏱️ - escape pit of the minotaur, maze game with torch, have fading memory of path travelled, minotaur howels and speeds up the longer you take to find the exit
+
+1. 🏛️ ⚡ 🗺️ 📜 - spartan defies gods in search of forbidden artefacts, battles great beasts, platformer
+
+1. 🏛️ 💎 🌿 ⛩️ - steal gems from centaur in garden maze, last gem reveals gate to next level
+
+1. 👹 🏎️ 🎌 🏟️ - muppet dirt track racing in go karts
+
+1. 🎛️ 💽 🔌 💡 - programming puzzle game using electrified blocks and wires
+
+1. 🐉 🗡️ 🌆 🪁 - dragon slaying using jetpack wingsuits in ruins of modern cities
+
+1. 🏗️ ⚖️ ⛲ 🏛️ - classical aqueduct construction puzzle game
+
+1. 📜 🕰️ 🖼️ 🏚️ - time travel mystery mansion puzzle game
+
+1. 💽 🏭 ☢ 💎 - psy-wave blaster, telekinesis action rpg, relic hunter in futuristic ruins, solve mystery
+
+1. ☸ ☢ 🚢 🔥 - battleship game, but everyone can see all the pieces, and you teleport in between turns, predicting the impact location of shells fired in the previous round
+
