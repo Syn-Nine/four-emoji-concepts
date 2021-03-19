@@ -127,3 +127,18 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 👻 ⛸ 🎾 🎠 - rollerball, but on ice, against mutants, carnival themes
 
+1. 🏘 🛠 🃏 🏗️ - 3d house of cards building game
+
+1. 🙉 🔫 ⛈ 💫 - 3d FPS where you play monkeys with overpowered squirt guns and tornados randomly appear
+
+1. 🌴 🕳️ 🏹 🪐 - alien world jungle hunting, stargate portals
+
+1. 🌴 🚀 🏎️ 🪐 - gradius inspired alien planet racing/rail shooter
+
+1. 👻 🦔 🦌 🔺 - hedgehog king on triangle world, ghost slayer, riding reindeer
+
+1. 🐼 🍶 🐍 📕 - panda farmer on mountain side, avoid snakes, drink sake, platformer economy sim
+
+1. 🏞️ 🐍 🌴 🪐 - snake game, but on alien planet, avoid terrain obstacles
+
+
