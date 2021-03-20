@@ -195,4 +195,4 @@ Mini-game ideas based on four emojis
 
 1. 🧧 🕵️ 🔠 🔳 - clues & codewords - doublespeak themes
 
-1. 🦥 🕙 🌲 🦊 - sloth vs fox, slow motion action game about having patience, set traps, no weapons, tortoise and hare theme
+1. 🦥 🕙 🌲 🦊 - sloth vs fox, slow motion puzzle game about having patience, set traps, no weapons, tortoise and hare theme
