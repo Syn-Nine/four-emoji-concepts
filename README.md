@@ -194,3 +194,20 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 1. 🔥 ⛲ 🏎️ 🚒 - firetruck simulator with drift physics and squirrely hose
 
 1. 🔦 🌕 🐾 🤸 - flashlight tag hide and seek
+
+1. 🖥️ 💾 ⚙️ 🗑️ - game designed to look like retro operating system
+
+1. 🛰️ 👾 🚀 🪐 - wing commander inspired space dog fighting and mega battles
+
+1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
+
+1. 🃏 🔥 🗡 🏰 - ultima underworld inspired dungeon crawler, modern day, with tech based spell casting using card collecting, takes place under chernobyl like disaster zone
+
+1. 🏎️ 🔥 ⚡ 🗺️ - spy hunter inspired vehicular combat, transporting black market goods across the badlands for cash and cyber implants
+
+1. 🐺 🏛️ 💎 ⛵ - viking trading and raiding game, but you are wolfmen, isometric semi-real-time combat like chrono trigger
+
+1. 🎡 🏛️ 🗺️ 🏗️ - turn based cannon game, but they're trebuchets and the mechanics are more than just simple ballistic trajectories, procedural classical building damage, win territory
+
+1. ⏬ 💈 🌕 🏛️ - arrow maze, rolling marble puzzle game, antiquity themes
+
