@@ -201,7 +201,7 @@ drunk ninjas and dragons have party on airplane, tilt-table marble rolling game 
 
 1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
 
-1. 🃏 🔥 🗡 🏰 - ultima underworld inspired dungeon crawler, modern day, with tech based spell casting using card collecting, takes place under chernobyl like disaster zone
+1. 🃏 🔥 🗡 🏭 - ultima underworld inspired dungeon crawler, modern day, with tech based spell casting using card collecting, takes place under chernobyl like disaster zone
 
 1. 🏎️ 🔥 ⚡ 🗺️ - spy hunter inspired vehicular combat, transporting black market goods across the badlands for cash and cyber implants
 
