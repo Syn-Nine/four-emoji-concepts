@@ -202,4 +202,3 @@ Mini-game ideas based on four emojis
 1. 🦊 🚀 🌌 😟 - starfox, but high speed, quick reflexes, special timing
 
 1. 🏗️ 🏭 🔥 ⚡ - factory processing simulation, raw resources in, refined resources out, build up complex stages of processing
-2. 
