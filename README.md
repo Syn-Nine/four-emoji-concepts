@@ -196,3 +196,10 @@ Mini-game ideas based on four emojis
 1. 🧧 🕵️ 🔠 🔳 - clues & codewords - doublespeak themes
 
 1. 🦥 🕙 🌲 🦊 - sloth vs fox, slow motion puzzle game about having patience, no weapons, tortoise and hare theme
+
+1. 🐬 🏄 🌊 🚯 - surfing game, dodge sharks and trash, buttom mashing and balancing themes
+
+1. 🦊 🚀 🌌 😟 - starfox, but high speed, quick reflexes, special timing
+
+1. 🏗️ 🏭 🔥 ⚡ - factory processing simulation, raw resources in, refined resources out, build up complex stages of processing
+2. 
