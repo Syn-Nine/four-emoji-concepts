@@ -197,7 +197,7 @@ Mini-game ideas based on four emojis
 
 1. 🦥 🕙 🌲 🦊 - sloth vs fox, slow motion puzzle game about having patience, no weapons, tortoise and hare theme
 
-1. 🐬 🏄 🌊 🚯 - surfing game, dodge sharks and trash, buttom mashing and balancing themes
+1. 🐬 🏄 🌊 🚯 - surfing game, dodge sharks and trash, button mashing and balancing themes
 
 1. 🦊 🚀 🌌 😟 - starfox, but high speed, quick reflexes, special timing
 
