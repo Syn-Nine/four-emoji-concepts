@@ -203,6 +203,6 @@ Mini-game ideas based on four emojis
 
 1. 🏗️ 🏭 🔥 ⚡ - factory processing simulation, raw resources in, refined resources out, build up complex stages of processing
 
-1. :zap: :robot: :palm_tree: :gear: - puzzle platformer, destroy machines and factories to return earth to garden
+1. :zap: :robot: :palm_tree: :gear: - puzzle platformer, angry fairy destroys machines and factories to return earth to garden, fights gnarley ugly fairies and trolls
 
 1. 🍸 :gear: :arrow_up_down: 🚰 - drink water or absynth to switch between two views of same map and solve puzzles
