@@ -202,3 +202,7 @@ Mini-game ideas based on four emojis
 1. 🦊 🚀 🌌 😟 - starfox, but high speed, quick reflexes, special timing
 
 1. 🏗️ 🏭 🔥 ⚡ - factory processing simulation, raw resources in, refined resources out, build up complex stages of processing
+
+1. :zap: :robot: :palm_tree: :gear: - puzzle platformer, destroy machines and factories to return earth to garden
+
+1. 🍸 :gear: :arrow_up_down: 🚰 - drink water or absynth to switch between two views of same map and solve puzzles
