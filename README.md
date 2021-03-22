@@ -7,6 +7,10 @@ Mini-game ideas based on four emojis
 
 1. 🏎 🕙 🚀 🚇 - wipeout-inspired tube racing
 
+1. 🍠 😻 🏰 🌘 - adventures of cat in moon kingdom in search of bread
+
+1. 🏟 🕞 🏎 🗿 - rad racer inspired racing game in Easter Island countryside
+
 1. ⛵️ :envelope_with_arrow: ♑️ :gem: - sea faring postal ship delivering letters to ancient towns in exchange for gems, dodge pirates and sea monsters
 
 1. :stadium: 🏝️ 📓 :cinema: - gladiator trainer math-stats game where you can only watch combatant AI, you don't control them directly
@@ -16,10 +20,6 @@ Mini-game ideas based on four emojis
 1. 🍅 🐫 🌴 🚁 - fly a helicopter around and throw tomatos at camels
 
 1. 🍛 🍅 🍚 🔨 - cooking game where your only tool is a hammer
-
-1. 🍠 😻 🏰 🌘 - adventures of cat in moon kingdom in search of bread
-
-1. 🏟 🕞 🏎 🗿 - racing game in Easter Island countryside
 
 1. ⛏ 🗿  ☯ 👥 - treasure digging puzzle game where you control yourself and a mirror copy of yourself simultaneously
 
@@ -206,3 +206,12 @@ Mini-game ideas based on four emojis
 1. :zap: :robot: :palm_tree: :gear: - puzzle platformer, angry fairy destroys machines and factories to return earth to garden, fights gnarley ugly fairies and trolls
 
 1. 🍸 :gear: :arrow_up_down: 🚰 - drink water or absynth to switch between two views of same map and solve puzzles
+
+1. 🏇 🛡️ 🎪 🔀 - medieval jousting and equestrian games, first person
+
+1. ⚔️ 👹 🏰 ⚜️ - sidescrolling sword fighting, guardian heroes inspired
+
+1. ⚔️ 🗺️ ⚙️ 👹 - procedurally generated adventure game, point and click
+
+1. 🚀 💫 👾 ⚜️ - space horror shootemup, neo feudalism themes
+
