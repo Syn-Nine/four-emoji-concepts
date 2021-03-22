@@ -5,6 +5,8 @@ Mini-game ideas based on four emojis
 
 1. 🏛️ 💎 🌿 ⛩️ - steal gems from centaur in garden maze, last gem reveals gate to next level
 
+1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
+
 1. 🏎 🕙 🚀 🚇 - wipeout-inspired tube racing
 
 1. 🍠 😻 🏰 🌘 - adventures of cat in moon kingdom in search of bread
@@ -164,8 +166,6 @@ Mini-game ideas based on four emojis
 1. 🖥️ 💾 ⚙️ 🗑️ - game designed to look like retro operating system
 
 1. 🛰️ 👾 🚀 🪐 - wing commander inspired space dog fighting and mega battles
-
-1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
 
 1. 🃏 🔥 🗡 🏭 - ultima underworld inspired dungeon crawler, modern day, with tech based spell casting using card collecting, takes place under chernobyl like disaster zone
 
