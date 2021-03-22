@@ -3,6 +3,10 @@ Mini-game ideas based on four emojis
 
 1. :chipmunk: :crystal_ball: :chicken: :icecream: - you play a squirrel and collect nuts while dodging chickens and are rewarded with ice cream sundaes
 
+1. 🏛️ 💎 🌿 ⛩️ - steal gems from centaur in garden maze, last gem reveals gate to next level
+
+1. 🏎 🕙 🚀 🚇 - wipeout-inspired tube racing
+
 1. ⛵️ :envelope_with_arrow: ♑️ :gem: - sea faring postal ship delivering letters to ancient towns in exchange for gems, dodge pirates and sea monsters
 
 1. :stadium: 🏝️ 📓 :cinema: - gladiator trainer math-stats game where you can only watch combatant AI, you don't control them directly
@@ -38,8 +42,6 @@ Mini-game ideas based on four emojis
 1. 🏎 🧟 🎮 🔫 - twin-stick zombie shooter while driving go-cart
 
 1. :boom: :dragon: :dromedary_camel: :palm_tree: - prince of persia style dragon slayer platformer
-
-1. 🏎 🕙 🚀 🚇 - wipeout-inspired tube racing
 
 1. 🍛 🍅 🔪 🥋 - cooking game where you make food by kicking/punching ingredients into pots and throwing knives
 
@@ -138,8 +140,6 @@ Mini-game ideas based on four emojis
 1. 🏛️ 🐗 🕯️ ⏱️ - escape pit of the minotaur, maze game with torch, have fading memory of path travelled, minotaur howels and speeds up the longer you take to find the exit
 
 1. 🏛️ ⚡ 🗺️ 📜 - spartan defies gods in search of forbidden artefacts, battles great beasts, platformer
-
-1. 🏛️ 💎 🌿 ⛩️ - steal gems from centaur in garden maze, last gem reveals gate to next level
 
 1. 👹 🏎️ 🎌 🏟️ - muppet dirt track racing in go karts
 
