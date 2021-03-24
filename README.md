@@ -49,7 +49,7 @@ Mini-game ideas based on four emojis
 
 1. 🎮 🏟 🤖 🚀 - twin stick mech arena combat
 
-1. 🧟 🏴 󠁲󠁵󠁩󠁮󠁿🏰 🏹 - zombie tower defense survival with bow-n-arrow
+1. 🧟 🏴 󠁲󠁵󠁩󠁮󠁿🏰 🏹 - frog zombie tower defense survival, play as humanoid crow with bow-n-arrow
 
 1. 🎮 🚀 ✈️ 🎖️ - military twin stick sidescroller jet shooter
 
