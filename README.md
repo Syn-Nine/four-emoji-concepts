@@ -17,6 +17,8 @@ Mini-game ideas based on four emojis
 
 1. :stadium: 🏝️ 📓 :cinema: - gladiator trainer math-stats game where you can only watch combatant AI, you don't control them directly
 
+1. :boom: :dragon: :dromedary_camel: :palm_tree: - prince of persia style dragon slayer platformer
+
 1. :scissors: :motorway: :sweat: :lipstick: - driving game where you lean out the window and cut someone's hair and put makeup on them while they lean out of a different car
 
 1. 🍅 🐫 🌴 🚁 - fly a helicopter around and throw tomatos at camels
@@ -42,8 +44,6 @@ Mini-game ideas based on four emojis
 1. 📉 ☘ 🔻 🕙 - triangle block geometry puzzle game to make shapes
 
 1. 🏎 🧟 🎮 🔫 - twin-stick zombie shooter while driving go-cart
-
-1. :boom: :dragon: :dromedary_camel: :palm_tree: - prince of persia style dragon slayer platformer
 
 1. 🍛 🍅 🔪 🥋 - cooking game where you make food by kicking/punching ingredients into pots and throwing knives
 
