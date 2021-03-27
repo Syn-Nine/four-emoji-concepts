@@ -217,7 +217,7 @@ Mini-game ideas based on four emojis
 
 1. :golf: :pirate_flag: :dagger: :gear: - put-put golfing/pool physics adventure game, typing of the dead meets golfing with pirates
 
-1. :pirate_flag: :rocket: :ringed_planet: :cowboy: - new world pirate game inspired by serenity and 47 ronin's pirate port
+1. :pirate_flag: :rocket: :ringed_planet: 🤠 - new world pirate game inspired by serenity and 47 ronin's pirate port
 
 1. :gem: :ghost: :shark: :diving_mask: - treasure hunting in sunken pirate ships, dodge ghosts, fight sharks, squid, etc
 
