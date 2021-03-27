@@ -19,6 +19,8 @@ Mini-game ideas based on four emojis
 
 1. :boom: :dragon: :dromedary_camel: :palm_tree: - prince of persia style dragon slayer platformer
 
+1. 🦊 🚀 🌌 😟 - starfox, but high speed, quick reflexes, special timing
+
 1. :scissors: :motorway: :sweat: :lipstick: - driving game where you lean out the window and cut someone's hair and put makeup on them while they lean out of a different car
 
 1. 🍅 🐫 🌴 🚁 - fly a helicopter around and throw tomatos at camels
@@ -198,8 +200,6 @@ Mini-game ideas based on four emojis
 1. 🦥 🕙 🌲 🦊 - sloth vs fox, slow motion puzzle game about having patience, no weapons, tortoise and hare theme
 
 1. 🐬 🏄 🌊 🚯 - surfing game, dodge sharks and trash, button mashing and balancing themes
-
-1. 🦊 🚀 🌌 😟 - starfox, but high speed, quick reflexes, special timing
 
 1. 🏗️ 🏭 🔥 ⚡ - factory processing simulation, raw resources in, refined resources out, build up complex stages of processing
 
