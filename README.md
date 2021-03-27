@@ -215,3 +215,14 @@ Mini-game ideas based on four emojis
 
 1. 🚀 💫 👾 ⚜️ - space horror shootemup, neo feudalism themes
 
+1. :golf: :pirate_flag: :dagger: :gear: - put-put golfing/pool physics adventure game, typing of the dead meets golfing with pirates
+
+1. :pirate_flag: :rocket: :ringed_planet: :cowboy: - new world pirate game inspired by serenity and 47 ronin's pirate port
+
+1. :gem: :ghost: :shark: :diving_mask: - treasure hunting in sunken pirate ships, dodge ghosts, fight sharks, squid, etc
+
+1. :wastebasket: :rocket: :moneybag: :dagger: - space ship salvage game, cut up wreckage, don't get killed by scavengers
+
+1. :gear: :notebook_with_decorative_cover: :palm_tree: :mag: - strange world where you decypher journal entries and solve puzzles to escape a dream, inspired by Myst
+
+1. :dog: :scream_cat: :fish: :european_castle: - spear wielding dog-men riding sea horses go to war with sea Kingdom of Catlantia, inspired by the sea people's invasion of egypt
