@@ -61,7 +61,7 @@ Mini-game ideas based on four emojis
 
 1. 🕝 💎 🌋 🎢 - cavern rail cart, quick timing, pickup gems, inside volcano
 
-1. 🗾 🌆 🏍️ ⛓️ - retro tokyo night motorcycle racing, road-rash gang style, twin stick combat, one for driving, one for sword fighting
+1. 🗾 🌆 🏍️ ⚔️ - retro tokyo night motorcycle racing, road-rash gang style, twin stick combat, one for driving, one for sword fighting
 
 1. 🐱‍🚀 👾 ↕️ ⚙️ - escape from alien world gravity shifting puzzle platformer against alien beasts and mechanical traps
 
