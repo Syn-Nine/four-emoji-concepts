@@ -9,6 +9,8 @@ Mini-game ideas based on four emojis
 
 1. 🏎 🕙 🚀 🚇 - wipeout-inspired tube racing
 
+1. :crossed_swords: :european_castle: :dragon: :purple_square: - skyrim de-make voxel raycaster
+
 1. 🍠 😻 🏰 🌘 - adventures of cat in moon kingdom in search of bread
 
 1. 🏟 🕞 🏎 🗿 - rad racer inspired racing game in Easter Island countryside
