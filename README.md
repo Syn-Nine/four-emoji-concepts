@@ -230,3 +230,5 @@ Mini-game ideas based on four emojis
 1. :dog: :scream_cat: :fish: :european_castle: - spear wielding dog-men riding sea horses go to war with sea Kingdom of Catlantia, inspired by the sea people's invasion of egypt
 
 1. :triangular_ruler: :crystal_ball: :jigsaw: :pill: - icosahedron based tetris where you battle growing infection cells
+
+1. 👥 🐟 🏅 🗡️ - two player competitive fishing game where you throw knives into a pond
