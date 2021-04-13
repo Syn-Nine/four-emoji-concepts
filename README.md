@@ -232,3 +232,5 @@ Mini-game ideas based on four emojis
 1. :triangular_ruler: :crystal_ball: :jigsaw: :pill: - icosahedron based tetris where you battle growing infection cells
 
 1. 👥 🐟 🏅 🗡️ - two player competitive fishing game where you throw knives into a pond
+
+1. :chair: :racehorse: :bow_and_arrow: :bird: - aerial dogfighting game, but instead of airplanes you're on a pegasus drawn chariot hunting giant flying beasts.
