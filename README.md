@@ -234,3 +234,75 @@ Mini-game ideas based on four emojis
 1. 👥 🐟 🏅 🗡️ - two player competitive fishing game where you throw knives into a pond
 
 1. :chair: :racehorse: :bow_and_arrow: :bird: - aerial dogfighting game, but instead of airplanes you're on a pegasus drawn chariot hunting giant flying beasts.
+
+1. :bomb: :ship: :world_map: :ocean: - battleship shooter where you plot ships course on top down map while manning giant bombardment gun in first person view
+
+1. :robot: :heart: :alien: :martial_arts_uniform: - mech beast building and fighting game, inspired by love death robots short
+
+1. :detective: :black_joker: :dagger: :notebook_with_decorative_cover: - jack the ripper inspired clue card collecting detective game
+
+1. :dizzy_face: :cocktail: :video_game: :helicopter: - drunk helicopter side scroller where controls are reversed and perturbed
+
+1. :jigsaw: :classical_building: :snake: :small_red_triangle_down: - snakes and ladder maze game, collect geometric puzzle pieces to unlock next level, dodge beasts and traps, atlantis themes
+
+1. :building_construction: :robot: :alien: :pleading_face: - mechanical droid engineering game where you invade and kill human colonies
+
+1. :racing_car: :rocket: :video_game: :desert_island: - twin stick differential throttle anti gravity racing inspired by star wars episode one
+
+1. :dizzy_face: :building_construction: :motorcycle: :pickup_truck: - excitebike but with monster trucks, includes track builder
+
+1. :palm_tree: :fox_face: :crocodile: :cowboy_hat_face: - alligator game where you swim around the bayou to sneak up and eat animals without scaring them or getting killed by hunters
+
+1. :classical_building: :building_construction: :herb: :fountain: - garden maze engineering game
+
+1. :robot: :dagger: :runner: :alien: - ninja gaiden, but you're a cyborg fighting grotesque r-type inspired biomechs
+
+1. :racing_car: :stadium: :ringed_planet: :man_pilot: - off-road dune buggy racing on Mars in space suits
+
+1. :twisted_rightwards_arrows: :zap: :crystal_ball: :shell: - flowing energy vector field game inspired by spirograph
+
+1. :building_construction: :fountain: :spoon: :chocolate_bar: - 3d chocolate fountain construction game
+
+1. :classical_building: :building_construction: :rat: :cheese: - rats of nimh simulator where you build a rat colony utopia without letting it collapse
+
+1. :pirate_flag: :gem: :key: :knot: - indiana jones and goonies inspired puzzle platformer treasure hunting game heavily reliant on lock picking puzzles
+
+1. :bird: :chipmunk: :mountain: :dash: - flying squirrel adventure game in windy caverns
+
+1. :racing_car: :golf: :crossed_flags: :dash: - suped up golf carts drift racing around golf courses to hit flags at high speed to "capture flags" and score
+
+1. :runner: :waning_crescent_moon: :musical_keyboard: :musical_note: - run n gun vampire killing game, only input is midi keyboard, attack by playing melodies and chords
+
+1. :musical_keyboard: :arrow_down: :drum: :musical_note: - falling arrow music game playing drums, midi support
+
+1. :space_invader: :microscope: :heart: :diving_mask: - starfox/rail shooter but inside the body killing viruses
+
+1. :classical_building: :scroll: :mountain: :parachute: - game about hang gliding in dense mountains trying to find hidden temples/civilizations
+
+1. :dizzy_face: :crystal_ball: :sparkles: :boom: - marble tilt puzzler but with crazy flashing lights and kaleidescope tunnel
+
+1. :bomb: :oil_drum: :white_check_mark: :mountain: - minesweeper but digging for oil, not defusing mines
+
+1. :zombie: :dart: :star: :person_frowning: - ninja star based shooting gallery, kill zombies, don't kill humans, or maybe you do
+
+1. :twisted_rightwards_arrows: :taxi: :children_crossing: :tram: - crossing guard traffic jam puzzle game
+
+1. :dragon: :stadium: :people_wrestling: :japan: - dragon vs dragon sumo wrestling
+
+1. :snake: :dragon: :airplane: :fast_forward: - dragon vs dragon aerial dogfighting with snake game eat n grow mechanics
+
+1. :crystal_ball: :twisted_rightwards_arrows: :dizzy_face: :arrow_right_hook: - marble tilt game on surface of sphere
+
+1. :jigsaw: :twisted_rightwards_arrows: :hole: :cyclone: - vector field puzzle game using source-sink-curl
+
+1. :building_construction: :arrow_up_down: :knot: :fleur_de_lis: - steampunk themed puzzle game using rope and pulley elevators
+
+1. :twisted_rightwards_arrows: :playground_slide: :ocean: :runner: - QWOP inspired slip n slide game
+
+1. :building_construction: :runner: :city_sunset: :gloves: - side scroller parkour racing with custom level builder
+
+1. :space_invader: :black_joker: :two_hearts: :flower_playing_cards: - match two/three card flipping game with procedurally generated icons
+
+1. :twisted_rightwards_arrows: :gear: :chart_with_upwards_trend: :anger: - procedurally generated arrow maze game, high difficulty ramp
+
+1. :gun: :runner: :white_flower: :moneybag: - flower sack doll fighter death match with water guns
