@@ -306,3 +306,5 @@ Mini-game ideas based on four emojis
 1. :twisted_rightwards_arrows: :gear: :chart_with_upwards_trend: :anger: - procedurally generated arrow maze game, high difficulty ramp
 
 1. :gun: :runner: :white_flower: :moneybag: - flower sack doll fighter death match with water guns
+
+1. :left_right_arrow: :crossed_swords: :busts_in_silhouette: :pill: - two player adversarial tetris, each player is on opposite sides of the board and picks the piece that the opponent has to use next, time limit before block falls on its own
