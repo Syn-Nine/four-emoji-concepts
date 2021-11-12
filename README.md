@@ -3,7 +3,7 @@ Mini-game ideas based on four emojis
 
 1. :chipmunk: :crystal_ball: :chicken: :icecream: - you play a squirrel and collect nuts while dodging chickens and are rewarded with ice cream sundaes
 
-1. :skull_crossbones: :bat: :game_die: :shinto_shrine: - halloween themed mahjong solitaire
+1. :skull_and_crossbones: :bat: :game_die: :shinto_shrine: - halloween themed mahjong solitaire
 
 1. 🏛️ 💎 🌿 ⛩️ - steal gems from centaur in garden maze, last gem reveals gate to next level
 
