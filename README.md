@@ -11,6 +11,8 @@ Mini-game ideas based on four emojis
 
 1. 🏎 🕙 🚀 🚇 - wipeout-inspired tube racing
 
+1. 💎 🤖 🐯 🌴 - treasure hunting in ancient jungle ruins of high-technological society dungeon crawler single screen metroidvania
+
 1. :crossed_swords: :european_castle: :dragon: :purple_square: - skyrim de-make voxel raycaster
 
 1. 🍠 😻 🏰 🌘 - adventures of cat in moon kingdom in search of bread
@@ -72,8 +74,6 @@ Mini-game ideas based on four emojis
 1. ️⚙️ ⚓ 🏯 ☁️ - airship building naval-warfare style strategy game with sky-castles
 
 1. 🖥️ 🛰️ 💾 👾 - hacking survival puzzle game on space station while hiding from alien monster
-
-1. 💎 🏛️ 🐯 🌴 - treasure hunting in ancient jungle ruins dungeon crawler
 
 1. 🏰 🕋️ 🏹 🗺️ - procedural generated isometric castle siege game
 
