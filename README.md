@@ -7,6 +7,8 @@ Mini-game ideas based on four emojis
 
 1. 🏛️ 💎 🌿 ⛩️ - steal gems from centaur in garden maze, last gem reveals gate to next level
 
+1. :space_invader: :microscope: :heart: :diving_mask: - starfox/rail shooter but inside the body killing viruses, r-type themes
+
 1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
 
 1. 🏎 🕙 🚀 🚇 - wipeout-inspired tube racing
@@ -276,8 +278,6 @@ Mini-game ideas based on four emojis
 1. :runner: :waning_crescent_moon: :musical_keyboard: :musical_note: - run n gun vampire killing game, only input is midi keyboard, attack by playing melodies and chords
 
 1. :musical_keyboard: :arrow_down: :drum: :musical_note: - falling arrow music game playing drums, midi support
-
-1. :space_invader: :microscope: :heart: :diving_mask: - starfox/rail shooter but inside the body killing viruses
 
 1. :classical_building: :scroll: :mountain: :parachute: - game about hang gliding in dense mountains trying to find hidden temples/civilizations
 
