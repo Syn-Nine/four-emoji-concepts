@@ -15,7 +15,7 @@ Mini-game ideas based on four emojis
 
 1. :crossed_swords: :european_castle: :dragon: :purple_square: - skyrim de-make voxel raycaster
 
-1. 🍠 😻 🏰 🌘 - adventures of cat in moon kingdom in search of bread
+1. 🍠 😻 🏰 🌘 - adventures of cat in moon kingdom in search of bread, whimsical adventure game
 
 1. 🏟 🕞 🏎 🗿 - rad racer inspired racing game in Easter Island countryside
 
@@ -310,3 +310,7 @@ Mini-game ideas based on four emojis
 1. :gun: :runner: :white_flower: :moneybag: - flower sack doll fighter death match with water guns
 
 1. :left_right_arrow: :crossed_swords: :busts_in_silhouette: :pill: - two player adversarial tetris, each player is on opposite sides of the board and picks the piece that the opponent has to use next, time limit before block falls on its own
+
+1. :snake: :building_construction: :stopwatch: :wolf: - mini rts, but it's animals in the wild fighting over territory
+
+1. :fire: :cowboy_hat_face: :chains: :carpentry_saw: - network multiplayer, run around chopping of each others heads and bring heads to fire pit at home base to score points
