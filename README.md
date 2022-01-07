@@ -7,6 +7,8 @@ Mini-game ideas based on four emojis
 
 1. 🏛️ 💎 🌿 ⛩️ - steal gems from centaur in garden maze, last gem reveals gate to next level
 
+1. 🤓 📂 🕣 🔥 - sokoban game against the clock, push files into folders, game over if you run into fire
+
 1. :space_invader: :microscope: :heart: :diving_mask: - starfox/rail shooter but inside the body killing viruses, r-type themes
 
 1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
