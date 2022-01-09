@@ -316,3 +316,11 @@ Mini-game ideas based on four emojis
 1. :snake: :building_construction: :stopwatch: :wolf: - mini rts, but it's animals in the wild fighting over territory
 
 1. :fire: :cowboy_hat_face: :chains: :carpentry_saw: - network multiplayer, run around chopping of each others heads and bring heads to fire pit at home base to score points
+
+1. #️⃣ ↕️ 🔡 *️⃣ - edge matching wang tile game
+
+1. 💽 🌆 💰 🌕 - cyberpunk thief puzzle tile game where you have to travel through tiles to reach an exit to escape with data loot, poss
+
+1. ⚙️ ⛲ 💰 🎪 - medieval civ building game where each turn you get a new tile to add to your map, your income and growth depend on affordances created by smart tile placement.
+
+1. ☣️ 💻 🔃 👾 - space invaders, but time reversed like tenet
