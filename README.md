@@ -324,3 +324,5 @@ Mini-game ideas based on four emojis
 1. ⚙️ ⛲ 💰 🎪 - medieval civ building game where each turn you get a new tile to add to your map, your income and growth depend on affordances created by smart tile placement.
 
 1. ☣️ 💻 🔃 👾 - space invaders, but time reversed like tenet
+
+1. 💀 🦈 🎪 ⚔️ - skull and shark have an adventure inside a carnival
