@@ -319,7 +319,7 @@ Mini-game ideas based on four emojis
 
 1. #️⃣ ↕️ 🔡 *️⃣ - edge matching wang tile game
 
-1. 💽 🌆 💰 🌕 - cyberpunk thief puzzle tile game where you have to travel through tiles to reach an exit to escape with data loot, poss
+1. 💽 🌆 💰 🌕 - cyberpunk thief puzzle tile game where you have to travel through tiles to reach an exit to escape with data loot
 
 1. ⚙️ ⛲ 💰 🎪 - medieval civ building game where each turn you get a new tile to add to your map, your income and growth depend on affordances created by smart tile placement.
 
