@@ -328,3 +328,5 @@ Mini-game ideas based on four emojis
 1. 💀 🦈 🎪 ⚔️ - skull and shark have an adventure inside a carnival
 
 1. 🔆 🙊 🔶 🕰️ - Mayan themed diagonal tetris against the clock to disable boobie traps and collect treasure.
+
+1. ☕ 🏍️ 🔪 🚸 - Road rash inspired "cafe racer" motorcycle game, avoid pedestrians, drink coffee, mod fashion, gang themes
