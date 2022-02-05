@@ -326,3 +326,5 @@ Mini-game ideas based on four emojis
 1. ☣️ 💻 🔃 👾 - space invaders, but time reversed like tenet
 
 1. 💀 🦈 🎪 ⚔️ - skull and shark have an adventure inside a carnival
+
+1. 🔆 🙊 🔶 🕰️ - Mayan themed diagonal tetris against the clock to disable boobie traps and collect treasure.
