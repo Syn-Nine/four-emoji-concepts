@@ -11,6 +11,8 @@ Mini-game ideas based on four emojis
 
 1. :twisted_rightwards_arrows: :gear: :chart_with_upwards_trend: :anger: - procedurally generated arrow maze game, high difficulty ramp
 
+1. 🚀 🪨 💡 2️⃣ - tank game in astroid belt, capture the flag, move aim shoot, limited resources, destroyable environments
+
 1. :space_invader: :microscope: :heart: :diving_mask: - starfox/rail shooter but inside the body killing viruses, r-type themes
 
 1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
@@ -336,3 +338,4 @@ Mini-game ideas based on four emojis
 1. 📈 🕯️ 🎲 👾 - interplanetary commodity trading game, teaches doe, candlesticks, investopedia concepts
 
 1. 🖌️ 🎴 🔃 🗻 - japanese / mucha themed card matching game
+
