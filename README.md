@@ -9,6 +9,8 @@ Mini-game ideas based on four emojis
 
 1. 🤓 📂 🕣 🔥 - sokoban game against the clock, push files into folders, game over if you run into fire
 
+1. :twisted_rightwards_arrows: :gear: :chart_with_upwards_trend: :anger: - procedurally generated arrow maze game, high difficulty ramp
+
 1. :space_invader: :microscope: :heart: :diving_mask: - starfox/rail shooter but inside the body killing viruses, r-type themes
 
 1. 🗡 🏹 🏰 💎 - medieval empire building game, train AI combat units, manage economy, conquer neighbors
@@ -306,8 +308,6 @@ Mini-game ideas based on four emojis
 1. :building_construction: :runner: :city_sunset: :gloves: - side scroller parkour racing with custom level builder
 
 1. :space_invader: :black_joker: :two_hearts: :flower_playing_cards: - match two/three card flipping game with procedurally generated icons
-
-1. :twisted_rightwards_arrows: :gear: :chart_with_upwards_trend: :anger: - procedurally generated arrow maze game, high difficulty ramp
 
 1. :gun: :runner: :white_flower: :moneybag: - flower sack doll fighter death match with water guns
 
