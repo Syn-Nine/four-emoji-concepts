@@ -332,3 +332,7 @@ Mini-game ideas based on four emojis
 1. ☕ 🏍️ 🔪 🚸 - Road rash inspired "cafe racer" motorcycle game, avoid pedestrians, drink coffee, mod fashion, gang themes
 
 1. 🛕 🐘 🥻 🎵- enchant animals to help you get home after getting lost in the jungle
+
+1. 📈 🕯️ 🎲 👾 - interplanetary commodity trading game, teaches doe, candlesticks, investopedia concepts
+
+1. 🖌️ 🎴 🔃 🗻 - japanese / mucha themed card matching game
