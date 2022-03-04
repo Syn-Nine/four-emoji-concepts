@@ -339,3 +339,4 @@ Mini-game ideas based on four emojis
 
 1. 🖌️ 🎴 🔃 🗻 - japanese / mucha themed card matching game
 
+1. 🗨️ 👮 💣 🗼 - procedural text game that teaches negotiation skills
