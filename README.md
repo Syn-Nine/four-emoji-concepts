@@ -345,3 +345,5 @@ Mini-game ideas based on four emojis
 
 1. 💰 🔖 👪 📈 - life simulation game that teaches financial skills and planning
 
+1. 🏛️ 💪 ⚔️ ⛰️ - Hercules battling greek gods action game with some puzzles
+
